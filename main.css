@@ -1,0 +1,155 @@
+      p{
+         color:darkblue;
+         font-size:20px;
+      }
+
+      .listitem {
+      	color:red;
+      	font-size:20px;
+      }
+
+      .paragraph {
+      	coloc:blue;
+      	font-size:2.5em;
+      }
+
+      #background {
+         background-color:green;
+      }
+
+      #button{
+         width:300px;
+         height:150px;
+         color:white;
+         background-color:darkblue;
+         border-radius:15px;
+         margin-left:25px;
+      }
+
+      header {
+         height:250px;
+         width:99%;
+         border:2px solid black;
+         background-color:#0066ff;
+         margin-bottom:25px;
+      }
+
+      footer {
+         height:250px;
+         width:99%;
+         border:2px solid black;
+         background-color:#aef880;
+      }
+
+      .wrap-trivia {
+        height:500px;
+        width:450px;
+        border:5px double yellow;
+        padding-left:25px;
+      }
+
+      .wrap-list {
+        height:400px;
+        width:450px;
+        border:5px dashed green;
+      }
+
+      wrap-text {
+       color: #ff28e0;
+       font-size: 2.1em;
+     }
+
+     #one{
+       height: 150px;
+       width: 150px;
+       background-color: blue;
+       display: inline-block;
+       position: absolute;'
+       z-index: 1;
+       position: fixed; left: 25%;
+     }
+
+     #two{
+       height: 150px;
+       width: 150px;
+       background-color: red;
+       display: inline-block;
+       position: absolute;
+       z-index: 2;
+       position: relative; yop: 750px;
+     }
+
+     #three{
+       height: 150px;
+       width: 150px;
+       background-color: lightblue;
+       display: inline-block;
+       position: absolute;
+     }
+
+     .navitem {
+
+
+     }
+
+     .navitem { 
+       list-style-type:none;
+     }
+
+     .navitem { 
+       list-style-type:none;
+       display:inline;
+     }
+
+     .navitem { 
+       list-style-type:none;
+       display:inline;
+       padding-right:1.5em;
+     }
+
+     #navmenu {
+
+
+     }
+
+     #navmenu {
+      width:250px;
+      height:30px;
+     }
+
+     #navmenu {
+      width:250px;
+      height:30px;
+      margin:auto;
+     }
+
+    
+     .homeLink:link{
+        color:red;
+    }
+
+     .homeLink:visited{
+        color:blue;
+    }
+
+     .homeLink:hover{
+        color:purple;
+    }
+
+     .homeLink:active{
+        color:orange;
+    }
+
+    #rightside {
+      float:right;
+      width:50%;
+    }
+
+    #leftside {
+      width:50%;
+    }
+
+    .clearfloat {
+      clear:both;
+
+    }
